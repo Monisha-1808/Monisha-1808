@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Monisha
 
-<!--
-**Monisha-1808/Monisha-1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BE CSE (AI & ML) Student  
+💻 Interested in Machine Learning, Java and Web Development  
+🚀 Currently learning Spring Boot and SQL  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Python
+- Machine Learning
+- Spring Boot
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- IoT Grain Protection System
+- WeatherWise Smart Shield
+
+📫 Connect with me:
+- LinkedIn: (add link)
+- Email: (add email)
