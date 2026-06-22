@@ -29,10 +29,11 @@ Postman
 
 ## Projects
 - IoT Grain Protection System
-- WeatherWise Smart Shield
+- Banking Management System - SQL
 - Hospital Management System
 - Online Bootcamp Registration Form
 
 📫 Connect with me:
 - LinkedIn: www.linkedin.com/in/monisha-b-50aa43310
+- Naukri: https://www.naukri.com/mnjuser/profile
 - Email: monishab276@gmail.com
