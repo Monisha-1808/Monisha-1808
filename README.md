@@ -1,38 +1,31 @@
 # Hi 👋 I'm Monisha
 
-Final Year BE CSE (AI & ML) Student
-💻 Interested in Machine Learning, Java, Full Stack Development, and MERN Stack Development
-🚀 Currently learning Spring Boot, SQL, HTML, CSS, JavaScript, React.js, Express.js, and Node.js
-🌐 Developing scalable web applications using Java Full Stack and MERN Stack technologies
-📚 Passionate about Software Development, Database Management, and Modern Web Technologies
-
+BE CSE (AI & ML) Graduate 🎓
+💻 Interested in Software Development, Java, Full Stack Development, and MERN Stack Development
+🚀 Skilled in Java, Spring Boot, SQL, HTML, CSS, JavaScript, and React.js, with an interest in Node.js and Express.js
+🌐 Building practical web applications using Java Full Stack and MERN Stack technologies
+🤖 Exploring AI applications and AI-assisted coding tools
+📚 Passionate about Software Development, Database Management, Problem-Solving, and Modern Web Technologies
 
 ## Skills
-Java
-Spring Boot
-SQL
-MySQL
-HTML5
-CSS3
-JavaScript
-React.js
-Node.js
-Express.js
-REST APIs
-Git
-GitHub
-Data Structures and Algorithms
-Object-Oriented Programming (OOP)
-DBMS
-Machine Learning
-Postman
+
+- Programming Languages: Java, JavaScript, SQL
+- Backend Development: Spring Boot, REST APIs, Node.js, Express.js
+- Frontend Development: HTML5, CSS3, React.js
+- Databases: MySQL, DBMS
+- Tools: Git, GitHub, Postman
+- Core Concepts: Object-Oriented Programming (OOP), Data Structures and Algorithms
+- Areas of Interest: Machine Learning, AI Applications
 
 ## Projects
-- IoT Grain Protection System
-- Banking Management System - SQL
-- Hospital Management System
-- Online Bootcamp Registration Form
-- Student Management System- JAVA
+
+- Cab Management System – Java, Spring Boot, MySQL, Spring Data JPA
+- Food Rescue Platform – React.js, JavaScript, React Router, Local Storage
+- Student Management System – Java, OOP, SQL 
+- Banking Management System – SQL, Database Management
+- IoT Grain Protection System – IoT, Sensors, Embedded Systems 
+- Hospital Management System – Next.js, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT
+- Online Bootcamp Registration Form – HTML, CSS, JavaScript 
 
 📫 Connect with me:
 - LinkedIn: www.linkedin.com/in/monisha-b-50aa43310
